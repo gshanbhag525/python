@@ -1,2 +1,2 @@
-# python
-python xode
+# Learn Python the easy way
+
